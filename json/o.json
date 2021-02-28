@@ -1,0 +1,43 @@
+["o", [{
+    "id": 1,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1602558654.78438981.jpg",
+    "name": "小米真无线蓝牙耳机Air 2 Pro",
+    "letter": "弹窗快连语音唤醒/通话降噪同步传输/主动降噪通透模式/持久续航无线充电",
+    "price": "639元"
+}, {
+    "id": 2,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550480620.30111865.jpg",
+    "name": "高速无线充套装",
+    "letter": "快速无线闪充 / 独立静音风扇 / Qi充电标准 / 安全充电",
+    "price": "149元"
+}, {
+    "id": 3,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594807763.78483029.jpg",
+    "name": "Redmi AirDots 2真无线蓝牙耳机",
+    "letter": "疾速秒连，戴上耳机就能用 / 蓝牙5.0技术 / 12小时长续航 / 单双耳模式无缝切换",
+    "price": "99元"
+}, {
+    "id": 4,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585639521.33045699.jpg",
+    "name": "小米真无线蓝牙耳机Air 2s",
+    "letter": "左右双主耳，同步传输，性能全面提升 / 智能语音唤醒 / 搭配充电盒使用，续航可达24小时 / 支持Qi标准无线充电",
+    "price": "369元"
+}, {
+    "id": 5,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563334968.4986834.jpg",
+    "name": "Redmi充电宝 10000mAh 标准版 白色",
+    "letter": "10000mAh大电量 / 可上飞机 / 双输入接口(USB-C&Micro-USB) / 双输出接口(2xUSB-A) / 高密度锂聚合物电芯",
+    "price": "59元"
+}, {
+    "id": 6,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563355921.76749273.jpg",
+    "name": "Redmi充电宝 20000mAh 快充版",
+    "letter": "20000mAh大电量 / 可上飞机 / 双输入接口(USB-C&Micro-USB) / 双输出接口(2xUSB-A) / 双向18W快充",
+    "price": "89元"
+}, {
+    "id": 7,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1524207827.68245447.jpg",
+    "name": "小米插线板 5孔位",
+    "letter": "过载断电保护 / 独立安全门 / 高温阻燃",
+    "price": "39元"
+}]]

@@ -1,0 +1,37 @@
+["f", [{
+    "id": 1,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家智能门锁 标准锁体 碳素黑",
+    "merit": "一体化活体指纹识别，多种开锁方式",
+    "price": "1299元"
+}, {
+    "id": 2,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1840f64ea310ca8013385885baaf16a8.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家智能门锁 标准锁体 磨砂金",
+    "merit": "全新磨砂金配色，精湛工艺升级",
+    "price": "1299元"
+}, {
+    "id": 3,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0baacf6e54cbf89cab2c543cc02344e9.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家智能门锁 推拉式 通用版",
+    "merit": "一步推拉，高端智能门锁",
+    "price": "1599元"
+}, {
+    "id": 4,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0245498a0e08b87ba8c323871c5d48bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家智能门锁 青春版",
+    "merit": "隐形指纹识别设计 简单一步快进家门",
+    "price": "999元"
+}, {
+    "id": 5,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e83e1ab5947337d7b631e056b3e0f23d.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家智能门锁 霸王锁体 碳素黑",
+    "merit": "一体化活体指纹识别，多种开锁方式",
+    "price": "1399元"
+}, {
+    "id": 6,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/fa7cdb455f106da904e8c3f6156abc06.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家智能门锁 霸王锁体 磨砂金",
+    "merit": "适配霸王锁体，多种开锁方式",
+    "price": "1399元"
+}]]

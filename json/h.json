@@ -1,0 +1,43 @@
+["h", [{
+    "id": 1,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家飞行员太阳镜 Pro",
+    "merit": "尼龙偏光，轻巧佩戴",
+    "price": "199元"
+}, {
+    "id": 2,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/57433a4b991b2a2ddc889f2d8d434655.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "小米巨能写中性笔10支装",
+    "merit": "一支顶4支，超长顺滑书写",
+    "price": "9.99元"
+}, {
+    "id": 3,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/03d94ee6059481a6adcb6c4c5c572fb4.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家迷你保温杯",
+    "merit": "可以随身携带的温度",
+    "price": "49元"
+}, {
+    "id": 4,
+    "img": "//i8.mifile.cn/v1/a1/413f5e2f-53e7-0879-119c-8b4466feea53!200x200.jpg",
+    "model": "贝医生巴氏牙刷 四色装",
+    "merit": "进口刷毛，好品质",
+    "price": "39.9元"
+}, {
+    "id": 5,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/d0b1119165c481376399aab53330e015.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家运动鞋4",
+    "merit": "轻盈若絮,弹若脱兔",
+    "price": "199元"
+}, {
+    "id": 6,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/18ebd0837a5f265deaee9231aa3e1245.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家指甲刀五件套",
+    "merit": "轻巧多用，优雅随行",
+    "price": "39.9元"
+}, {
+    "id": 7,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f9017bebb14740ea46673aaa81a616cb.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "8H乳胶床垫2",
+    "merit": "软硬双面可睡",
+    "price": "499元"
+}]]

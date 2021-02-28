@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer" />
+    <title>详情页</title>
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/xm.css">
+    <link rel="stylesheet" href="../css/page.css">
+    <script src="../js/cookie.js"></script>
+    <script src="../js/page.js"></script>
+    <script src="../js/utils.js"></script>
+    <script src="../js/ajax.js"></script>
+</head>
+
+<body>
+    <!-- 大盒子 -->
+    <article class="box">
+        <!-- 头部 -->
+        <header>
+            <!-- 版心 -->
+            <article class="header_content">
+                <!-- 左边区块 -->
+                <article class="header_left">
+                    <ul class="h_left_ul">
+                        <li><a href="#">小米商场</a></li>
+                        <span>|</span>
+                        <li><a href="#">MIUI</a></li>
+                        <span>|</span>
+                        <li><a href="#">IoT</a></li>
+                        <span>|</span>
+                        <li><a href="#">云服务</a></li>
+                        <span>|</span>
+                        <li><a href="#">天星数科</a></li>
+                        <span>|</span>
+                        <li><a href="#">有品</a></li>
+                        <span>|</span>
+                        <li><a href="#">小爱开放平台</a></li>
+                        <span>|</span>
+                        <li><a href="#">企业团购</a></li>
+                        <span>|</span>
+                        <li><a href="#">资质证照</a></li>
+                        <span>|</span>
+                        <li><a href="#">协议规则</a></li>
+                        <span>|</span>
+                        <li><a href="#">下载app</a></li>
+                        <span>|</span>
+                        <li><a href="#">智能生活</a></li>
+                        <span>|</span>
+                        <li><a href="#">Select Location</a></li>
+                    </ul>
+                </article>
+                <!-- 右边区块 -->
+                <article class="header_right">
+                    <!-- l -->
+                    <article class="r_left">
+                        <!-- 登录 注册 消息通知 -->
+                        <ul class="h_right_ul">
+                            <li class="username"><a href="#"></a></li>
+                            <div class="swz" style="transition: none;transform: none">
+                                <span>个人中心</span>
+                                <span>评价晒单</span>
+                                <span>我的喜欢</span>
+                                <span>小米账户</span>
+                                <span>退出登录</span>
+                            </div>
+                            <li><a href="./login.html">登录</a></li>
+                            <span>|</span>
+                            <li><a href="./enroll.html">注册</a></li>
+                            <span>|</span>
+                            <li><a href="#">消息通知</a></li>
+                        </ul>
+                    </article>
+                    <!-- r -->
+                    <article class="r_right">
+                        <article>购物车</article>
+                    </article>
+                </article>
+            </article>
+        </header>
+        <!-- 导航栏 -->
+        <nav>
+            <!-- logo -->
+            <article class="logo">
+                <a href="#"></a>
+            </article>
+            <!-- 中间导航栏 -->
+            <article class="nav_center">
+                <ul>
+                    <li><a href="#">小米手机</a></li>
+                    <li><a href="#">Redmi 红米</a></li>
+                    <li><a href="#">电视</a></li>
+                    <li><a href="#">笔记本</a></li>
+                    <li><a href="#">家电</a></li>
+                    <li><a href="#">路由器</a></li>
+                    <li><a href="#">智能硬件</a></li>
+                    <!-- <li><a href="#">服务</a></li>
+                    <li><a href="#">社区</a></li> -->
+                </ul>
+            </article>
+            <!-- 右边搜索框 -->
+            <article class="search">
+                <input type="text" placeholder="【新升级】6000兆极速 穿墙王">
+                <article class="search_image">
+                    <a href="#"></a>
+                </article>
+            </article>
+        </nav>
+        <!-- 显现 -->
+        <article class="show" style="background: none">
+            <ul>
+                <!-- <li>
+                    <img
+                        src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/963679eaf3937351e154600ab3448460.png?thumb=1&w=160&h=110&f=webp&q=90">
+                    <h4>小米11</h4>
+                    <span>3999元起</span>
+                </li>
+                <li>
+                    <img
+                        src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/963679eaf3937351e154600ab3448460.png?thumb=1&w=160&h=110&f=webp&q=90">
+                    <h4>小米10至尊纪念版</h4>
+                    <span>5299起</span>
+                </li>
+                <li>
+                    <img
+                        src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/963679eaf3937351e154600ab3448460.png?thumb=1&w=160&h=110&f=webp&q=90">
+                    <h4>小米10</h4>
+                    <span>3399元起</span>
+                </li>
+                <li>
+                    <img
+                        src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/963679eaf3937351e154600ab3448460.png?thumb=1&w=160&h=110&f=webp&q=90">
+                    <h4>小米10 青春版 5G</h4>
+                    <span>2099元起</span>
+                </li>
+                <li>
+                    <img
+                        src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/963679eaf3937351e154600ab3448460.png?thumb=1&w=160&h=110&f=webp&q=90">
+                    <h4>小米MIX Alpha</h4>
+                    <span>19999元起</span>
+                </li> -->
+            </ul>
+        </article>
+        <!-- minute区块 -->
+        <article id="minute">
+            <article class="minute">
+                <!-- 左边文字 -->
+                <article class="min_l">
+                    <span><a href="#">小米11</a></span>
+                    <h1><a href="#">小米10 至尊纪念版</a></h1>
+                    <h1><a href="#">小米10</a></h1>
+                    <h1><a href="#">小米10 青春版</a></h1>
+                </article>
+                <!-- 右边文字 -->
+                <article class="min_r">
+                    <ul>
+                        <li><a href="#">概述页</a></li>
+                        <li><a href="#">参数页</a></li>
+                        <li><a href="#">F码通道</a></li>
+                        <li><a href="#">咨询客服</a></li>
+                        <li><a href="#">用户评价</a></li>
+                    </ul>
+                </article>
+            </article>
+        </article>
+        <article id="main">
+            <article class="main">
+                <!-- <article class="m_l">
+                    <img src="https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1609158776.66688823.jpg">
+                </article>
+                <article class="m_r">
+                    <article class="senta">
+                        <h1>小米11</h1>
+                        <h2>「新品热卖中；最高享6期免息；标配不提供充电器和数据线，如需请选择套装版」骁龙888｜2K AMOLED 四曲面柔性屏｜1亿像素三摄｜时尚轻薄机身｜55W
+                            有线闪充｜50W
+                            无线闪充｜10W 无线反充｜LPDDR5｜WiFi6（增强版）｜视频「超级夜景」｜哈曼卡顿音频认证｜立体声双扬声器</h2>
+                        <h3>小米自营</h3>
+                        <h4>4699元</h4>
+                    </article>
+                    <article class="site">
+                        <ul>
+                            <li>北京</li>
+                            <li>北京市</li>
+                            <li>海淀区</li>
+                            <li>清河街道</li>
+                            <li>修改</li>
+                        </ul>
+                        <span>该地区暂时缺货</span>
+                    </article>
+                    <article class="choice">
+                        <article class="choice_a">
+                            <h1>选择版本</h1>
+                            <ul>
+                                <li class="active" style="margin-right: 12px"><a href="#">12GB+256GB</a></li>
+                                <li><a href="#">8GB+256GB</a></li>
+                                <li style="margin-top:10px;"><a href="#">8GB+128GB</a></li>
+                            </ul>
+                        </article>
+                        <article class="choice_b">
+                            <h1>选择颜色</h1>
+                            <ul>
+                                <li style="margin-right: 12px"><a href="#">黑色</a></li>
+                                <li><a href="#">蓝色</a></li>
+                                <li style="margin: 10px 12px 0 0"><a href="#">白色</a></li>
+                                <li style="margin-top:10px;"><a href="#">烟紫（素皮）</a></li>
+                                <li style="margin-top: 10px"><a href="#">雷军签名版</a></li>
+                            </ul>
+                        </article>
+                        <article class="choice_c">
+                            <h1>选择套餐</h1>
+                            <ul>
+                                <li style="margin-right: 10px"><a href="#">标准版</a></li>
+                                <li><a href="#">套装版（赠充电器）</a></li>
+                            </ul>
+                        </article>
+                        <article class="choice_d">
+                            <h1>选择小米提供的尊享服务</h1>
+                            <h2>了解尊享服务</h2>
+                            <article class="d_content">
+                                <h3>MiCare保障服务</h3>
+                                <span>679元</span>
+                                <br>
+                                <h4>2年2次碎屏 1年延保维修 1年保值换新</h4>
+                                <h5>我已阅读服务条款</h5>
+                            </article>
+                        </article>
+                        <article class="choice_e">
+                            <h1>选择小米提供的意外保护</h1>
+                            <h2>了解意外保护</h2>
+                            <article class="e_content">
+                                <h3>意外保障服务</h3>
+                                <span>349元</span>
+                                <br>
+                                <h4>手机意外碎屏/进水/碾压等损坏</h4>
+                                <h5>我已阅读服务条款</h5>
+                            </article>
+                            <article class="e_content" style="margin: 0px;">
+                                <h3>碎屏保障服务</h3>
+                                <span>249元</span>
+                                <br>
+                                <h4>手机意外碎屏</h4>
+                                <h5>我已阅读服务条款</h5>
+                            </article>
+                        </article>
+                        <article class="choice_f">
+                            <h1>选择小米提供的延长保修</h1>
+                            <h2>了解延长保修</h2>
+                            <article class="f_content">
+                                <h3>延长保修服务</h3>
+                                <span>159元</span>
+                                <br>
+                                <h4>厂保延1年，性能故障免费维修</h4>
+                                <h5>我已阅读服务条款</h5>
+                            </article>
+                        </article>
+                        <article class="choice_g">
+                            <h1>选择小米提供的云空间服务</h1>
+                            <h2>了解云空间服务</h2>
+                            <article class="g_content">
+                                <h3>云空间年卡200G</h3>
+                                <span>208元</span>
+                                <br>
+                                <h4>主商品签收后，自动激活至下单账号</h4>
+                                <h5>我已阅读注意事项</h5>
+                            </article>
+                            <article class="g_content" style="margin: 0px">
+                                <h3>云空间年卡50G</h3>
+                                <span>208元</span>
+                                <br>
+                                <h4>主商品签收后，自动激活至下单账号</h4>
+                                <h5>我已阅读注意事项</h5>
+                            </article>
+                            <article class="g_content" style="margin: 0px">
+                                <h3>云空间月卡200G</h3>
+                                <span>208元</span>
+                                <br>
+                                <h4>主商品签收后，自动激活至下单账号</h4>
+                                <h5>我已阅读注意事项</h5>
+                            </article>
+                            <article class="g_content" style="margin: 0px">
+                                <h3>云空间月卡50G</h3>
+                                <span>208元</span>
+                                <br>
+                                <h4>主商品签收后，自动激活至下单账号</h4>
+                                <h5>我已阅读注意事项</h5>
+                            </article>
+                        </article>
+                    </article>
+                    <article class="price">
+                        <h1>小米11 12GB+256GB 黑色</h1>
+                        <h2>总计：</h2>
+                        <h3>4699元</h3>
+                    </article>
+                    <article class="buy">
+                        <button class="btn1">购买</button>
+                        <button class="btn2">喜欢</button>
+                    </article>
+                </article> -->
+            </article>
+        </article>
+        <!-- 价格说明区块 -->
+        <article id="state">
+            <article class="state">
+                <h1>价格说明</h1>
+                <article class="lineP">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a482afa34053b1b32ece1023475af7fb.jpeg">
+                </article>
+            </article>
+        </article>
+
+
+        <article id="match">
+            <article class="match">
+                <ul>
+                    <li>预约维修</li>
+                    <li>服务7天无理由退货</li>
+                    <li>15天免费换货</li>
+                    <li>满99元包邮</li>
+                    <li>520余家售后网点</li>
+                </ul>
+            </article>
+        </article>
+        <!-- 自定义列表区块 -->
+        <article id="bar">
+            <article class="bar">
+                <!-- 左区块 -->
+                <article class="bar_l">
+                    <dl>
+                        <dt><a href="#">帮助中心</a></dt>
+                        <dd><a href="#">账户管理</a></dd>
+                        <dd><a href="#">购物指南</a></dd>
+                        <dd><a href="#">订单操作</a></dd>
+                    </dl>
+                    <dl>
+                        <dt><a href="#">服务支持</a></dt>
+                        <dd><a href="#">售后政策</a></dd>
+                        <dd><a href="#">自助服务</a></dd>
+                        <dd><a href="#">相关下载</a></dd>
+                    </dl>
+                    <dl>
+                        <dt><a href="#">线下门店</a></dt>
+                        <dd><a href="#">小米之家</a></dd>
+                        <dd><a href="#">服务网点</a></dd>
+                        <dd><a href="#">授权体验店</a></dd>
+                    </dl>
+                    <dl>
+                        <dt><a href="#">关于小米</a></dt>
+                        <dd><a href="#">了解小米</a></dd>
+                        <dd><a href="#">加入小米</a></dd>
+                        <dd><a href="#">投资者关系</a></dd>
+                        <dd><a href="#">企业社会责任</a></dd>
+                        <dd><a href="#">廉洁举报</a></dd>
+                    </dl>
+                    <dl>
+                        <dt><a href="#">关注我们</a></dt>
+                        <dd><a href="#">新浪微博</a></dd>
+                        <dd><a href="#">官方微信</a></dd>
+                        <dd><a href="#">联系我们</a></dd>
+                        <dd><a href="#">公益基金会</a></dd>
+                    </dl>
+                    <dl>
+                        <dt><a href="#">特色服务</a></dt>
+                        <dd><a href="#">F 码通道</a></dd>
+                        <dd><a href="#">礼物码</a></dd>
+                        <dd><a href="#">防伪查询</a></dd>
+                    </dl>
+                </article>
+                <!-- 右区块 -->
+                <article class="bar_r">
+                    <h6>400-100-5678</h6>
+                    <h2>8:00-18:00(仅收市话费)</h2>
+                    <span></span>
+                </article>
+            </article>
+        </article>
+        <article id="copy">
+            <article class="copy">
+                <img src="../image/logo.png">
+                <article class="cop">
+                    <ul class="u6">
+                        <li><a href="#">小米商城</a></li>
+                        <span>|</span>
+                        <li><a href="#">MIUI</a></li>
+                        <span>|</span>
+                        <li><a href="#">米家</a></li>
+                        <span>|</span>
+                        <li><a href="#">米聊</a></li>
+                        <span>|</span>
+                        <li><a href="#">多看</a></li>
+                        <span>|</span>
+                        <li><a href="#">游戏</a></li>
+                        <span>|</span>
+                        <li><a href="#">政企服务</a></li>
+                        <span>|</span>
+                        <li><a href="#">小米天猫店</a></li>
+                        <span>|</span>
+                        <li><a href="#">小米集团隐私政策</a></li>
+                        <span>|</span>
+                        <li><a href="#">小米公司儿童信息保护规则</a></li>
+                        <span>|</span>
+                        <li><a href="#">小米商城隐私政策</a></li>
+                        <span>|</span>
+                        <li><a href="#">小米商城用户协议</a></li>
+                        <span>|</span>
+                        <li><a href="#">问题反馈</a></li>
+                        <span>|</span>
+                        <li><a href="#">Select Location</a></li>
+                        <span>|</span>
+                        <li><a href="#">北京互联网法院法律服务工作站</a></li>
+                        <span>|</span>
+                        <li><a href="#">中国消费者协会</a></li>
+                        <span>|</span>
+                        <li><a href="#">北京市消费者协会</a></li>
+                    </ul>
+                    <h1>© mi.com 京ICP证110507号 京ICP备10046444号 京公网安备11010802020134号 京网文[2020]0276-042号</h1>
+                    <ul class="u7">
+                        <li><a href="#">（京）网械平台备字（2018）第00005号&nbsp;</a></li>
+                        <li><a href="#">互联网药品信息服务资格证 (京)-非经营性-2014-0090&nbsp;</a></li>
+                        <li><a href="#">营业执照&nbsp;</a></li>
+                        <li><a href="#">医疗器械质量公告</a></li>
+                    </ul>
+                    <ul class="u1">
+                        <li><a href="#">增值电信业务许可证&nbsp;</a></li>
+                        <li>网络食品经营备案&nbsp;</li>
+                        <li>京食药网食备202010048&nbsp;</li>
+                        <li><a href="#">食品经营许可证</a></li>
+                    </ul>
+                    <ul class="u2">
+                        <li>违法和不良信息举报电话：171-5104-4404&nbsp;</li>
+                        <li><a href="#">知识产权侵权投诉&nbsp;</a></li>
+                        <li>本网站所列数据，除特殊说明，所有数据均出自我司实验室测试</li>
+                    </ul>
+                </article>
+            </article>
+        </article>
+    </article>
+</body>
+
+</html>

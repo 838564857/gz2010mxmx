@@ -1,0 +1,49 @@
+["e", [{
+    "id": 1,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/03a9e7e96a09d256ca1badeec186c859.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "小米全面屏电视65英寸 E65X",
+    "merit": "全面屏设计",
+    "price": "2899元"
+}, {
+    "id": 2,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/20d36fbaa18625e4fe507af31e4e9f83.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "全面屏电视E43K",
+    "merit": "全面屏设计，海量内容",
+    "price": "1299元"
+}, {
+    "id": 3,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d8674cd21c486feff5328772ab9cf01.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "小米电视4A 70英寸",
+    "merit": "大屏更享受",
+    "price": "3299元"
+}, {
+    "id": 4,
+    "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b911be4c2f156bb6e4cf367c6080045.jpg?thumb=1&w=200&h=200",
+    "model": "米家空调",
+    "merit": "出众静音，快速制冷热",
+    "price": "1699元"
+}, {
+    "id": 5,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec20453216dcd42f982cffe5fdbc3115.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "米家互联网洗烘一体机 Pro 10kg",
+    "merit": "智能洗烘，省心省力",
+    "price": "2899元"
+}, {
+    "id": 6,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8c63a2024528fe5410ebe669b7d2407.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "Redmi全自动波轮洗衣机1A 8kg",
+    "merit": "一键操作，父母都爱用",
+    "price": "799元"
+}, {
+    "id": 7,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/74e573c4c0d89048392d14831cc507d5.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "Air 13.3 2019款",
+    "merit": "新一代独立显卡",
+    "price": "5399元"
+}, {
+    "id": 8,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/74e573c4c0d89048392d14831cc507d5.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "model": "Air 13.3 2019款",
+    "merit": "新一代独立显卡",
+    "price": "5399元"
+}]]

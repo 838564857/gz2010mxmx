@@ -1,0 +1,31 @@
+["j", [{
+    "id": 1,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1589855374.71192668.jpg",
+    "name": "全面屏电视E43K",
+    "price": "1299元",
+    "letter": "全面屏设计/无边视野/世界精彩一览无余"
+}, {
+    "id": 2,
+    "img": "https:/cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1589855374.71192668.jpg",
+    "name": "全面屏电视E43K",
+    "price": "1299元",
+    "letter": "全面屏设计/无边视野/世界精彩一览无余"
+}, {
+    "id": 3,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1573793097.85481061.jpg",
+    "name": "米家声波电动牙刷T500",
+    "price": "179元",
+    "letter": "高频震动磁悬浮马达，刷得干净，智能过压提醒，不伤牙龈，个性定制洁齿模式，满足多种口腔需求，无锈无金属刷头，清洁卫生高效"
+}, {
+    "id": 4,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552868299.27348967.jpg",
+    "price": "799元",
+    "name": "Redmi全自动波轮洗衣机1A 8kg",
+    "letter": "「下单立减50元，限时抢购价仅749元！」8kg大容量 / 10种洗涤模式 / 10挡水位调节 / 耐腐蚀金属机身 / 桶自洁、桶风干模式避免细菌滋生 / 空气阻尼减震 / 免运费及基础安装费"
+}, {
+    "id": 5,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1601189808.02058075.jpg",
+    "price": "2899元",
+    "name": "小米全面屏电视65英寸 E65X",
+    "letter": "全面屏/4K HDR/内置小爱同学/杜比+DTS/64位四核处理器"
+}]]

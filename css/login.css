@@ -1,0 +1,175 @@
+html,
+body {
+    height: 100%;
+}
+
+#box {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#head {
+    width: 100%;
+    height: 98px;
+}
+
+.head {
+    width: 1130px;
+    height: 100%;
+    margin: auto;
+    padding-top: 25px;
+}
+
+.head img {
+    float: left;
+}
+
+.head .list {
+    float: left;
+    margin-left: 22px;
+}
+
+.head .list h2 {
+    font-size: 30px;
+    color: #333333;
+
+}
+
+.head .list h3 {
+    font-size: 10px;
+    color: #666666;
+}
+
+#main {
+    flex: 1;
+    width: 100%;
+    background: url('https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/72644d9b8031286de3cc74e151aefd90.jpg') center;
+}
+
+.main {
+    width: 1130px;
+    height: 588px;
+    margin: auto;
+    padding-top: 32px;
+}
+
+.main .login {
+    width: 410px;
+    height: 556px;
+    background-color: #fff;
+    float: right;
+    padding-top: 29px;
+}
+
+span {
+    position: absolute;
+    left: 900px;
+    top: 430px;
+    color: #f56600;
+}
+
+.main .login .ount {
+    width: 348px;
+    height: 29px;
+    margin: auto;
+}
+
+.main .login .ount h2 a {
+    display: block;
+    width: 174px;
+    height: 29px;
+    float: left;
+    text-align: center;
+    font-size: 22px;
+    color: #f56600;
+    border-right: 1px solid #e0e0e0;
+}
+
+.main .login .ount h5 a {
+    display: block;
+    width: 174px;
+    height: 29px;
+    text-align: center;
+    float: left;
+    font-size: 22px;
+    color: #666666;
+    border-left: 1px solid #e0e0e0;
+}
+
+.main .login .field {
+    width: 348px;
+    height: 114px;
+    margin: auto;
+    margin-top: 24px;
+}
+
+.main .login .field input {
+    width: 348px;
+    height: 50px;
+    border: 1px solid #e0e0e0;
+    padding-left: 14px;
+}
+
+.main .login .field input:nth-child(2) {
+    margin-top: 14px;
+}
+
+.main .login .opera {
+    width: 348px;
+    height: 126px;
+    margin: auto;
+    margin-top: 24px;
+}
+
+.main .login .opera button {
+    width: 100%;
+    height: 50px;
+    background-color: #ff6700;
+    border: none;
+    outline: none;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.main .login .opera h2 {
+    text-align: center;
+}
+
+.main .login .opera h2 a {
+    color: #ff6700;
+    font-size: 12px;
+}
+
+.main .login .opera .ster {
+    width: 100%;
+    height: 14px;
+    margin-top: 30px;
+}
+
+.main .login .opera .ster h2 a {
+    display: block;
+    width: 174px;
+    float: left;
+    color: #999999;
+    font-size: 14px;
+    text-align: right;
+    border-right: 1px solid #ebc2a5;
+    padding-right: 5px;
+}
+
+.main .login .opera .ster h3 a {
+    display: block;
+    color: #999999;
+    width: 174px;
+    float: right;
+    font-size: 14px;
+    border-left: 1px solid #99b2d8;
+    padding-left: 5px;
+}
+
+#foot {
+    height: 98px;
+    width: 100%;
+}

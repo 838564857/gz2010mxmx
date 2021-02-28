@@ -1,0 +1,49 @@
+["l", [{
+    "id": 1,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1609158776.66688823.jpg",
+    "name": "小米11",
+    "letter": "「2月26日上午10点开售；最高享6期免息；标配不提供充电器和数据线，如需请选择套装版」骁龙888｜2K AMOLED 四曲面柔性屏｜1亿像素三摄｜时尚轻薄机身｜55W 有线闪充｜50W 无线闪充｜10W 无线反充｜LPDDR5｜WiFi6（增强版）｜视频「超级夜景」｜哈曼卡顿音频认证｜立体声双扬声器",
+    "price": "4699元"
+}, {
+    "id": 2,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596073939.80384505.jpg",
+    "name": "小米10",
+    "letter": "「赠价值897元三人体检套餐；最高享24期免息；米金兑换100元优惠券」骁龙865处理器 / 1亿像素8K电影相机 / 双模5G / 新一代LPDDR5内存 / 对称式立体声 / 90Hz刷新率+180Hz采样率 / UFS 3.0高速存储 / 全面适配Wi-Fi 6 / 超强VC液冷散热 / 30W极速闪充+30W无线闪充+10W无线反充 / 4780mAh大电量 / 多功能NFC",
+    "price": "3599 元"
+}, {
+    "id": 3,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288823.40133253.jpg",
+    "name": "Note 9 Pro 5G",
+    "letter": "「购机抽奖至高赢2021元购物红包」一亿像素夜景相机 / 120Hz六档变速高刷屏 / 国内首发骁龙750G / 6.67小孔径全面屏 / 立体声双扬声器 / 4820mAh+33W闪充 / 多功能NFC / 线性马达 / 红外遥控 / 全新MIUI 12系统",
+    "price": "1999元"
+}, {
+    "id": 4,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288963.72951431.jpg",
+    "name": "Note 9 5G",
+    "letter": "「购机抽奖至高赢2021元购物红包」天玑 800U处理器 / 4800万像素主摄 / 6.53英寸超高清小孔全面屏 / 小金刚品质 / 5000mAh+18W快充 / 双5G待机 / 侧边指纹识别 / 线性马达 / 红外遥控",
+    "price": "1299元"
+}, {
+    "id": 5,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606289221.80685857.jpg",
+    "name": "Note 9 4G",
+    "letter": "「购机抽奖至高赢2021元购物红包」6000mAh超长续航 / 4800万超清三摄 / 全高清6.53英寸护眼屏 / 骁龙662处理器 / 18W快速充电 / 立体声双扬声器 / 侧边指纹识别 / 90%高屏占比 / 康宁大猩猩保护玻璃",
+    "price": "999元"
+}, {
+    "id": 6,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.0831679.jpg",
+    "name": "Redmi 9A",
+    "letter": "「6GB+128GB版本直降100元，到手价低至899元；购机赠小米移动流量卡」5000mAh长循环大电量6.53 超大护眼屏幕G25八核处理器 大音量扬声器 1300 万 AI相机 人脸解锁 最高支持512GB存储扩展",
+    "price": "599元"
+}, {
+    "id": 7,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1603708777.40827786.jpg",
+    "name": "Redmi K30S 至尊纪念版",
+    "letter": "骁龙865 / 144Hz[7档]变速高刷屏 / 专业原色显示+全局护眼 / 5000mAh大电量+33W快充 / 6400万AI三摄 / 立体声双扬声器+X轴马达 / LPDDR5+UFS3.1+WiFi6",
+    "price": "2599元"
+}, {
+    "id": 8,
+    "img": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138318.70214063.jpg",
+    "name": "Redmi K30 至尊纪念版",
+    "letter": "「火爆热卖中；购机抽奖至高赢2021元购物红包」120Hz弹出全面屏 / 天玑1000+旗舰处理器 / 索尼6400万四摄 / 立体声双扬声器 / 4500mAh+33W闪充 / 双模5G / 多功能NFC / 线性震动马达 / 红外遥控",
+    "price": "2199元"
+}]]

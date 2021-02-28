@@ -1,0 +1,49 @@
+["d", [{
+    "id": 1,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5a260090e0e08770b0bd865845a4b4ab.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "小米11",
+    "model": "骁龙888 | 2K四曲面屏",
+    "price": "3999元起"
+}, {
+    "id": 2,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0099822e42b4428cb25c4cdebc6ca53d.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "小米10",
+    "model": "骁龙865/1亿像素相机",
+    "price": "3399元起"
+}, {
+    "id": 3,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/4e75e528fb468aee107f551179aa0799.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "Note 9 Pro",
+    "model": "一亿像素夜景相机，120Hz六档变速高刷屏",
+    "price": "1599元起"
+}, {
+    "id": 4,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/de2f71a797a74e1ca70f1fb4570bc026.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "Note 9",
+    "model": "天玑 800U处理器，5000mAh电池",
+    "price": "1299元起"
+}, {
+    "id": 5,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/13f10e47913f9dc82e6c6a6199f413cd.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "Note 9 4G",
+    "model": "6000mAh长续航",
+    "price": "999元起"
+}, {
+    "id": 6,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c892a7640f58032489cbff8a948b50f9.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "Redmi 9A",
+    "model": "5000mAh长循环大电量，6.53超大护眼屏幕",
+    "price": "499元起"
+}, {
+    "id": 7,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/7cf7a05df86a858a1f391a0378d8c27d.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "Redmi K30S 至尊纪念版",
+    "model": "144Hz[7档]变速高刷屏",
+    "price": "2599元起"
+}, {
+    "id": 8,
+    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3b19bf0e7e599c1bbbce510fb0dbc8bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+    "list": "Redmi K30 至尊版",
+    "model": "120Hz弹出全面屏，天玑1000+旗舰处理器",
+    "price": "1999元起"
+}]]
